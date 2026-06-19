@@ -8,17 +8,21 @@ I am a Computer Science student passionate about Web Development, Data Structure
 
 ## 🚀 About Me
 
-- 🌱 Currently learning MERN Stack
-- 💻 Solving DSA problems daily
-- ☕ Java & Spring Boot Enthusiast
-- 🔥 Interested in Full Stack Development
+🌱 Working as a MERN Full Stack Developer and Java Full Stack Developer
+🛠️ I build frontend interfaces using React and backend services using Node.js and Spring Boot
+👨‍💼 Experienced in developing end-to-end applications, from UI to database and deployment
+⚙️ Strong focus on clean architecture, scalable system design, and performance optimization
+🔄 Comfortable working across frontend, backend, databases, and DevOps workflows
+💬 Ask me about MERN Stack, Java Full Stack, Frontend–Backend integration, REST APIs, and Backend Architecture
 - 📫 Reach me: aditya18451818@gmail.com
 
 ---
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
-![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js)
+<h1 align="center">Hi 👋, I'm Aditya Gupta</h1>
+
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&pause=1000&center=true&width=600&lines=Full+Stack+Developer;Java+Developer;MERN+Stack+Developer;DSA+Enthusiast" />
+</p>
 
 
 ## 🛠️ Tech Stack
@@ -42,11 +46,18 @@ I am a Computer Science student passionate about Web Development, Data Structure
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=aditya18451818&theme=radical" />
 </p>
 
-<h1 align="center">Hi 👋, I'm Aditya Gupta</h1>
+## 📊 Contribution Activity
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&pause=1000&center=true&width=600&lines=Full+Stack+Developer;Java+Developer;MERN+Stack+Developer;DSA+Enthusiast" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=aditya18451818&theme=github-dark" />
 </p>
+
+<h2 align="center">📊 Contribution Activity</h2>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=aditya18451818&bg_color=0d1117&color=58a6ff&line=58a6ff&point=f0f6fc&area=true&hide_border=true" />
+</p>
+
 ### Languages
 - Java
 - JavaScript
