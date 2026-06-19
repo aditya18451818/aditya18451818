@@ -1,12 +1,4 @@
-## Hi there 👋
-
-<!--
-**aditya18451818/aditya18451818** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...# 👋 Hi, I'm Aditya Gupta
+# 👋 Hi, I'm Aditya Gupta
 
 ### Full Stack Developer | Java | MERN Stack
 
@@ -56,10 +48,3 @@ I am a Computer Science student passionate about Web Development, Data Structure
 ## 🔗 Connect With Me
 
 [LinkedIn](YOUR_LINKEDIN_URL)
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
