@@ -7,14 +7,19 @@ I am a Computer Science student passionate about Web Development, Data Structure
 ---
 
 ## 🚀 About Me
-- 🌱 Learning MERN Stack, Java, and System Design
-- 🛠️ Building full-stack applications using React, Node.js, Express, and MongoDB
-- ☕ Solving DSA problems in Java
-- ⚙️ Interested in Backend Development and Scalable Systems
-- 🔄 Exploring Cloud, DevOps, and Deployment Workflows
-- 💬 Ask me about Java, DSA, MERN Stack, REST APIs, and Full Stack Development
-- 📫 Reach me at your-email@gmail.com or connect on LinkedIn
-- 📫 Reach me: aditya18451818@gmail.com
+🌱 Working as a MERN Full Stack Developer and Java Full Stack Developer
+
+🛠️ I build frontend interfaces using React and backend services using Node.js and Spring Boot
+
+👨‍💼 Experienced in developing end-to-end applications, from UI to database and deployment
+
+⚙️ Strong focus on clean architecture, scalable system design, and performance optimization
+
+🔄 Comfortable working across frontend, backend, databases, and DevOps workflows
+
+💬 Ask me about MERN Stack, Java Full Stack, Frontend–Backend integration, REST APIs, and Backend Architecture
+
+📫 Reach me: aditya18451818@gmail.com
 
 ---
 
@@ -31,7 +36,7 @@ I am a Computer Science student passionate about Web Development, Data Structure
   <img src="https://skillicons.dev/icons?i=java,cpp,javascript,html,css,react,nodejs,express,mongodb,mysql,git,github,vscode" />
 </p>
 
-## 📊 GitHub Stats
+<h2 align="center">📊 GitHub Stats</h2>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=aditya18451818&show_icons=true&theme=radical" />
@@ -44,12 +49,6 @@ I am a Computer Science student passionate about Web Development, Data Structure
 ### Streak Stats
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=aditya18451818&theme=radical" />
-</p>
-
-## 📊 Contribution Activity
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=aditya18451818&theme=github-dark" />
 </p>
 
 <h2 align="center">📊 Contribution Activity</h2>
