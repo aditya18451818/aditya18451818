@@ -12,7 +12,7 @@ I am a Computer Science student passionate about Web Development, Data Structure
 - 💻 Solving DSA problems daily
 - ☕ Java & Spring Boot Enthusiast
 - 🔥 Interested in Full Stack Development
-- 📫 Reach me: your-email@gmail.com
+- 📫 Reach me: aditya18451818@gmail.com
 
 ---
 
@@ -47,4 +47,4 @@ I am a Computer Science student passionate about Web Development, Data Structure
 
 ## 🔗 Connect With Me
 
-[LinkedIn](YOUR_LINKEDIN_URL)
+[LinkedIn](https://www.linkedin.com/in/aditya-gupta-4273bb380/)
