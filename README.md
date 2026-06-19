@@ -1,12 +1,14 @@
-# 👋 Hi, I'm Aditya Gupta
+<h2 align="center">👋 Hi, I'm Aditya Gupta</h2>
 
-### Full Stack Developer | Java | MERN Stack
+<h4 align="center">I'm a MERN Full Stack Developer and Java Full Stack Developer with hands-on experience in DevOps, passionate about building scalable, cloud-native applications.</h4>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=aditya18451818&label=Profile+Views&color=ff8c42&style=flat-square" />
+</p>
 
-I am a Computer Science student passionate about Web Development, Data Structures & Algorithms, and Backend Engineering.
 
 ---
 
-## 🚀 About Me
+<h2 align="center">🚀 About Me</h2>
 🌱 Working as a MERN Full Stack Developer and Java Full Stack Developer
 
 🛠️ I build frontend interfaces using React and backend services using Node.js and Spring Boot
@@ -21,13 +23,13 @@ I am a Computer Science student passionate about Web Development, Data Structure
 
 📫 Reach me: aditya18451818@gmail.com
 
----
-
-<h1 align="center">Hi 👋, I'm Aditya Gupta</h1>
-
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&pause=1000&center=true&width=600&lines=Full+Stack+Developer;Java+Developer;MERN+Stack+Developer;DSA+Enthusiast" />
 </p>
+
+
+---
+
 
 
 ## 🛠️ Tech Stack
@@ -39,11 +41,14 @@ I am a Computer Science student passionate about Web Development, Data Structure
 <h2 align="center">📊 GitHub Stats</h2>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aditya18451818&show_icons=true&theme=radical" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=aditya18451818&theme=github_dark" />
+</p>
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=aditya18451818&theme=github_dark" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aditya18451818&layout=compact&theme=radical" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=aditya18451818&theme=github_dark&utcOffset=5.5" />
 </p>
 
 ### Streak Stats
@@ -56,26 +61,6 @@ I am a Computer Science student passionate about Web Development, Data Structure
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=aditya18451818&bg_color=0d1117&color=58a6ff&line=58a6ff&point=f0f6fc&area=true&hide_border=true" />
 </p>
-
-### Languages
-- Java
-- JavaScript
-- python
-
-### Frontend
-- HTML
-- CSS
-- React
-
-### Backend
-- Node.js
-- Express.js
-- Spring Boot
-
-### Database
-- MySQL
-- MongoDB
-
 ---
 
 ## 📊 GitHub Stats
