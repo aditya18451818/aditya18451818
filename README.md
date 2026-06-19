@@ -41,17 +41,15 @@
 <h2 align="center">📊 GitHub Stats</h2>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=aditya18451818&theme=github_dark" />
-</p>
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=aditya18451818&theme=github_dark" />
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=aditya18451818&theme=github_dark&utcOffset=5.5" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight" />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight" />
 </p>
 
-### Streak Stats
+<h2 align="center">Streak Stats</h2>
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=aditya18451818&theme=radical" />
 </p>
@@ -62,9 +60,6 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=aditya18451818&bg_color=0d1117&color=58a6ff&line=58a6ff&point=f0f6fc&area=true&hide_border=true" />
 </p>
 ---
-
-## 📊 GitHub Stats
-
 ![Stats](https://github-readme-stats.vercel.app/api?username=aditya18451818&show_icons=true)
 
 ---
