@@ -7,13 +7,13 @@ I am a Computer Science student passionate about Web Development, Data Structure
 ---
 
 ## 🚀 About Me
-
-🌱 Working as a MERN Full Stack Developer and Java Full Stack Developer
-🛠️ I build frontend interfaces using React and backend services using Node.js and Spring Boot
-👨‍💼 Experienced in developing end-to-end applications, from UI to database and deployment
-⚙️ Strong focus on clean architecture, scalable system design, and performance optimization
-🔄 Comfortable working across frontend, backend, databases, and DevOps workflows
-💬 Ask me about MERN Stack, Java Full Stack, Frontend–Backend integration, REST APIs, and Backend Architecture
+- 🌱 Learning MERN Stack, Java, and System Design
+- 🛠️ Building full-stack applications using React, Node.js, Express, and MongoDB
+- ☕ Solving DSA problems in Java
+- ⚙️ Interested in Backend Development and Scalable Systems
+- 🔄 Exploring Cloud, DevOps, and Deployment Workflows
+- 💬 Ask me about Java, DSA, MERN Stack, REST APIs, and Full Stack Development
+- 📫 Reach me at your-email@gmail.com or connect on LinkedIn
 - 📫 Reach me: aditya18451818@gmail.com
 
 ---
