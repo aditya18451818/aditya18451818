@@ -17,11 +17,16 @@ I am a Computer Science student passionate about Web Development, Data Structure
 ---
 
 ## 🛠️ Tech Stack
+## 🛠️ Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,cpp,javascript,html,css,react,nodejs,express,mongodb,mysql,git,github,vscode" />
+</p>
 
 ### Languages
 - Java
 - JavaScript
-- C++
+- python
 
 ### Frontend
 - HTML
